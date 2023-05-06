@@ -1,5 +1,13 @@
 # MovieBook
 
+
+
+
+#Output ScreenShots 
+![Screenshot (321)](https://user-images.githubusercontent.com/72693753/236555731-cdbb3c88-8f9b-42a6-86ab-a98654547885.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/72693753/236555849-43aca728-0ca1-4eb8-a411-3f3f45232996.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/72693753/236555875-83099e1b-0b34-4ce7-8ad0-1d0babb7814c.png)
+
 Creating a Movie Ticket Booking Website
 
 People prefer to complete the majority of their tasks online in today's digital world. Everything may be done online, including shopping and cinema ticket booking. Therefore, it is a wonderful idea to develop a website for purchasing movie tickets that enables people to do so from the convenience of their homes. This post will go over how to build a website for purchasing movie tickets step-by-step.
@@ -101,9 +109,3 @@ A GitHub repository with the project's source code may be found at https://githu
 
 Conclusion
 A movie booking website with a "Now Showing" page and a "Book Now" button was successfully constructed as part of this project. Users of the website can view currently playing films and reserve tickets for their top choices. The website was able to give a simple and visually appealing user experience by utilising HTML, CSS.
-
-
-#Output ScreenShots 
-![Screenshot (321)](https://user-images.githubusercontent.com/72693753/236555731-cdbb3c88-8f9b-42a6-86ab-a98654547885.png)
-![Screenshot (322)](https://user-images.githubusercontent.com/72693753/236555849-43aca728-0ca1-4eb8-a411-3f3f45232996.png)
-![Screenshot (323)](https://user-images.githubusercontent.com/72693753/236555875-83099e1b-0b34-4ce7-8ad0-1d0babb7814c.png)
